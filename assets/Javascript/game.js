@@ -8,7 +8,7 @@
  	var wrongGuess = [];
  	var remainingLetters = 0;
  	
- 	var audio = new Audio("https://github.com/nlweber3/hangman-game/blob/master/assets/Audio/Western_noise.wav");
+ 	var audio = new Audio("/Assets/Audio/Western_noise.wav");
  	// messages = {
  	// 	win: 'Nice shooting Partner!',
  	// 	lose: 'Better Luck Next Time Punk!',
